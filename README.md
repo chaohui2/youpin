@@ -13,6 +13,9 @@
 ## 使用方式
 
 ### 依赖安装
+1、Python 3.6+
+
+2、依赖库
 ```bash
 pip install -r requirements.txt
 ```
