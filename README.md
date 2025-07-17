@@ -13,7 +13,7 @@
 ## 使用方式
 
 ### 依赖安装
-1、Python 3.11+
+1、Python 3.11+ https://www.python.org/downloads/
 
 2、依赖库
 ```bash
