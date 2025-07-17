@@ -30,7 +30,7 @@ APP_KEY = 'your appkey'           # 请替换为你的 App Key
 ```
 ### 配置参数
 
-在 `main` 部分可配置如下参数：
+在 `main.py` https://github.com/chaohui2/youpin/blob/main/main.py#L63 部分可配置如下参数：
 
 * `template_id`：商品模板ID，必填
 * `min_price` / `max_price`：目标商品价格范围
